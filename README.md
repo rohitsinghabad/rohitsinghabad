@@ -35,15 +35,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,nodejs,express,mongodb,react,redux,tailwind,git,postman,figma,sqlite,pytorch,pandas,chartjs" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-### 🔥 Streak Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rohitsinghabad&theme=tokyonight&hide_border=true" />
 
 ### 💡 Top Languages
 
